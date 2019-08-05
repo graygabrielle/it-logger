@@ -1,4 +1,6 @@
-import React, { useEffect } from "react";
+import React, { useEffect, Fragment } from "react";
+import SearchBar from "./components/layout/SearchBar";
+import Logs from "./components/logs/Logs";
 
 import "material-design-icons/iconfont/material-icons.css";
 import "materialize-css/dist/css/materialize.min.css";
@@ -12,7 +14,12 @@ const App = () => {
   });
   return (
     <div className="App">
-      <i className="material-icons">face</i>
+      <Fragment>
+        <SearchBar />
+        <div className="container">
+          <Logs />
+        </div>
+      </Fragment>
     </div>
   );
 };
