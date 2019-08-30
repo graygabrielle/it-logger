@@ -13,6 +13,13 @@
       "tech": "Sara Wilson",
       "date": "2019-08-30T06:48:43.470Z",
       "id": 3
+    },
+    {
+      "message": "Need to fix server",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-08-30T22:57:56.502Z",
+      "id": 4
     }
   ],
   "techs": [
