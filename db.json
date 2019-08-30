@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Fixed hard drive at station #3300",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-08-30T06:47:45.414Z",
-      "id": 1
-    },
-    {
       "message": "Phone not working",
       "attention": true,
       "tech": "Sam Smith",
