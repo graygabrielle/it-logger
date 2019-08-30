@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Fixed hard drive at station #3300",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2019-08-30T06:47:45.414Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Phone not working",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "Sam Smith",
+      "date": "2019-08-30T06:48:03.339Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Created new user on system",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2019-08-30T06:48:43.470Z",
+      "id": 3
     }
   ],
   "techs": [
