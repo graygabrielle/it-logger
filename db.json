@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Phone not working",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-08-30T06:48:03.339Z",
-      "id": 2
+      "id": 2,
+      "message": "Fixed hard drive on workstation 2",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-08-30T22:46:59.323Z"
     },
     {
       "message": "Created new user on system",
