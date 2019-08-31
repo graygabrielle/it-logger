@@ -15,18 +15,11 @@
       "id": 3
     },
     {
-      "message": "Need to fix server",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-08-30T22:57:56.502Z",
-      "id": 4
-    },
-    {
-      "message": "hgsfad",
+      "id": 4,
+      "message": " fixed server",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-08-31T06:44:23.891Z",
-      "id": 5
+      "date": "2019-08-31T06:50:09.490Z"
     }
   ],
   "techs": [
