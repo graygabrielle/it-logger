@@ -4,8 +4,8 @@
       "id": 2,
       "message": "Fixed hard drive on workstation 2",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-08-30T22:46:59.323Z"
+      "tech": "James Brown",
+      "date": "2019-08-31T07:37:50.910Z"
     },
     {
       "message": "Created new user on system",
@@ -37,6 +37,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Brown",
+      "id": 4
     }
   ]
 }
